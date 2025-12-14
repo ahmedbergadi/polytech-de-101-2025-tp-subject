@@ -16,8 +16,8 @@ Ce projet implique la création d'un pipeline ETL pour l'ingestion, la transform
 ## Installation
 Clonez le dépôt GitHub, puis installez les dépendances à partir du fichier `requirements.txt` :
 
-    git clone https://github.com/anasnay11/polytech-de-101-2024-tp-subject.git
-    cd polytech-de-101-2024-tp-subject
+    git clone https://github.com/ahmedbergadi/polytech-de-101-2025-tp-subject.git
+    cd polytech-de-101-2025-tp-subject
     pip install -r requirements.txt
 
 
